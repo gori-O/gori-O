@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gori-O / korean name - Kim dong keyum
+- 👋 Hi, I’m @gori-O / korean name - kim dong kium
 - 👀 I’m interested in computervision, windows apps
 - 🌱 I’m currently learning selfdriving algorithm
 - 💞️ I’m looking to collaborate on ...
