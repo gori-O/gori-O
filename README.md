@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gori-O / korean name - kim dong kium
+- 👋 Hi, I’m @gori-O / korean name - kim dong keyum
 - 👀 I’m interested in computervision, windows apps
-- 🌱 I’m currently learning selfdriving algorithm
+- 🌱 I’m currently learning selfdriving algorithm, windows programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> fheld1545@naver.com   reply within a day
 - 
