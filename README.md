@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gori-O / Korean name - kim dong keyum
 - 👀 I’m interested in ComputerVision, Windows applications
-- 🌱 I’m currently learning CV, WPF, MFC
+- 🌱 I’m currently learning ComputerVision, WPF, MFC
 - 💞️ I’m looking to collaborate on ... any good company :>
 - 📫 How to reach me -> fheld1545@naver.com   reply within a day
 <!---
